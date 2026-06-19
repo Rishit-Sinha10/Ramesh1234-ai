@@ -52,7 +52,6 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Rizz4566?theme=light&font=Rouge%20Script&ext=heatmap"/>
   <img src="https://leetcard.jacoblin.cool/Rizz4566?theme=light&font=Rouge%20Script&ext=contest"/>
 </p>
 
