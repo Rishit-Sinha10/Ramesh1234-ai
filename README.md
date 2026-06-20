@@ -153,8 +153,6 @@ Rank     : 🏅 S-Class · AI-Enhanced · Zero Downtime
 
 ## 📊 パワーレベル — GITHUB STATS 📊
 
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Anime stats gif"/>
-
 </div>
 
 <div align="center">
@@ -193,8 +191,6 @@ Rank     : 🏅 S-Class · AI-Enhanced · Zero Downtime
 <div align="center">
 
 ## 🌐 現実世界で見つけて — FIND ME IN THE REAL WORLD 🌐
-
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="90" alt="GitHub anime gif"/>
 
 <br/><br/>
 
